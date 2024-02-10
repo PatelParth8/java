@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [24/Aug/2023:00:00:04 +0530] "GET /First/FirstServlet?color=Blue&Submit=Submit HTTP/1.1" 200 33
+0:0:0:0:0:0:0:1 - - [24/Aug/2023:00:00:47 +0530] "GET /First/FirstServlet?color=Blue&Submit=Submit HTTP/1.1" 200 33
+0:0:0:0:0:0:0:1 - - [24/Aug/2023:00:00:49 +0530] "GET /First/FirstServlet?color=Blue&Submit=Submit HTTP/1.1" 200 33
+0:0:0:0:0:0:0:1 - - [24/Aug/2023:00:00:49 +0530] "GET /First/FirstServlet?color=Blue&Submit=Submit HTTP/1.1" 200 33
+0:0:0:0:0:0:0:1 - - [24/Aug/2023:00:00:49 +0530] "GET /First/FirstServlet?color=Blue&Submit=Submit HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [24/Aug/2023:00:00:50 +0530] "GET /First/FirstServlet?color=Blue&Submit=Submit HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [24/Aug/2023:00:00:52 +0530] "GET /First/FirstServlet?color=Blue&Submit=Submit HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [24/Aug/2023:00:00:59 +0530] "GET /First/FirstServlet?color=Yellow&Submit=Submit HTTP/1.1" 200 54
